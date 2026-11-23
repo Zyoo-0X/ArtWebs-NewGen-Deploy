@@ -2,6 +2,9 @@
 
 A small Python tool. It extracts Artemis Engine PFS archives on your PC and uploads the game files to a GitHub repository.
 
+## How to use
+Clone this repo, add games Artemis into games and run run.bat
+
 ## Layout on GitHub
 
 ```text
